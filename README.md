@@ -8,9 +8,9 @@ a convenient error creator with pure manipulation methods
 ![node version](https://img.shields.io/node/v/@financial-times/n-error.svg)
 
 [![CircleCI](https://circleci.com/gh/Financial-Times/n-error.svg?style=shield)](https://circleci.com/gh/Financial-Times/workflows/n-error)
-[![Coverage Status](https://coveralls.io/repos/github/Financial-Times/n-error/badge.svg?branch=master)](https://coveralls.io/github/Financial-Times/n-error?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/Financial-Times/n-error/badge.svg?branch=main)](https://coveralls.io/github/Financial-Times/n-error?branch=main)
 [![Known Vulnerabilities](https://snyk.io/test/github/Financial-Times/n-error/badge.svg)](https://snyk.io/test/github/Financial-Times/n-error)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Financial-Times/n-error/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Financial-Times/n-error/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Financial-Times/n-error/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/Financial-Times/n-error/?branch=main)
 [![Dependencies](https://david-dm.org/Financial-Times/n-error.svg)](https://david-dm.org/Financial-Times/n-error)
 [![devDependencies](https://david-dm.org/Financial-Times/n-error/dev-status.svg)](https://david-dm.org/Financial-Times/n-error?type=dev)
 
